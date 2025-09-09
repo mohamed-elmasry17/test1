@@ -2,7 +2,7 @@
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "repositoryUrl": "https://github.com/mohamed-elmasry17/test1",
     "fileSize": 16392,
     "status": 1,
     "language": "ar",
@@ -15,13 +15,13 @@
     ],
     "version": 16,
     "internalName": "ArabSeedProvider",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/ArabSeedProvider.cs3",
+    "url": "https://github.com/mohamed-elmasry17/test1/raw/main/build/ArabSeedProvider.cs3",
     "name": "ArabSeedProvider"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/aymanbest/Arabico",
+    "repositoryUrl": "https://github.com/mohamed-elmasry17/test1",
     "fileSize": 13531,
     "status": 2,
     "language": "ar",
@@ -35,7 +35,7 @@
     "version": 9,
     "internalName": "CimaNowProvider",
     "description": "This site Load Slowly please be patient \n هذا الموقع يحمل بطء، يرجى أن تكون صبورًا.",
-    "url": "https://github.com/aymanbest/Arabico/raw/main/build/CimaNowProvider.cs3",
+    "url": "https://github.com/aymanbest/mohamed-elmasry17/test1/build/CimaNowProvider.cs3",
     "name": "CimaNowProvider"
   }
 ]
